@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jprendiz/crearTodos/static/css/main.c4433955.css",
+    "main.js": "/jprendiz/crearTodos/static/js/main.43b7591f.js",
+    "index.html": "/jprendiz/crearTodos/index.html",
+    "static/media/delete.svg": "/jprendiz/crearTodos/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/jprendiz/crearTodos/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.c4433955.css.map": "/jprendiz/crearTodos/static/css/main.c4433955.css.map",
+    "main.43b7591f.js.map": "/jprendiz/crearTodos/static/js/main.43b7591f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4433955.css",
+    "static/js/main.43b7591f.js"
+  ]
+}
